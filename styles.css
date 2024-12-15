@@ -1,8 +1,7 @@
 <style>
-    /* Black background for the entire page */
     body {
-        background-color: black; /* Set page background to black */
-        color: white; /* Ensure text is readable on black background */
+        background-color: black;
+        color: white; 
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
@@ -10,7 +9,7 @@
     }
 
     nav {
-        background-color: #333; /* Navigation background */
+        background-color: #333;
         color: white;
         padding: 10px 0;
     }
@@ -25,7 +24,7 @@
         margin: 0 15px;
     }
     nav ul li a {
-        color: white; /* Navigation links white for contrast */
+        color: white;
         text-decoration: none;
         font-weight: bold;
     }
